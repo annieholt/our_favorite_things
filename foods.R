@@ -8,4 +8,6 @@
 
 # My name is Ashley and my favorite food is tacos.
 
-# Charles is on a seefood diet.  He eats whenever he sees food.
+# Charles is on a seafood diet.  He eats whenever he sees food.  Because it's 
+% totally yummy.
+
