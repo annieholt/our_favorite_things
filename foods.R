@@ -7,3 +7,5 @@
 # My name is Annie and my favorite food is bananas.
 
 # My name is Ashley and my favorite food is tacos.
+
+# Charles is on a seefood diet.  He eats whenever he sees food.
